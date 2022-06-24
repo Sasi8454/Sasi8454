@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sasi8454
+- 👋 Hi, I’m @Sasikala
 - 👀 I’m interested in learning new technology and implemet them 
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on realtime projects
