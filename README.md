@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sasikala
-- 👀 I’m interested in learning new technology and implemet them 
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on realtime projects
+- 👋 Hi, I’m @Sasikala java developer @Wipro
+- 👀 I’m interested in learning new technology and implementing them 
+- 🌱 java, spring boot, rest API implementation
+- 💞️ I’m looking to collaborate on real-time projects
 - 📫 How to reach me ... Sashi8454@gmail.com
 
 <!---
